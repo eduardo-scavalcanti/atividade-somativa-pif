@@ -1,4 +1,6 @@
-# Sistema de Manutenção de Contas Bancárias em C
+# Atividade Somativa - PIF
+
+Sistema de Manutenção de Contas Bancárias em C
 
 Trabalho da disciplina de Linguagem de Programação — 2° período ADS.
 
